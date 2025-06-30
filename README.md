@@ -43,5 +43,5 @@ Where:
 - FFT Magnitude Spectrum (in Volts)
 - PSD (in dBV²/Hz) with peak and offset annotations
 
-A data file named "example_1G.ngspice" has been uploaded for Example
+**A data file named "example_1G.ngspice" has been uploaded for Reference file format**
 
