@@ -43,8 +43,5 @@ Where:
 - FFT Magnitude Spectrum (in Volts)
 - PSD (in dBV²/Hz) with peak and offset annotations
 
-## 🧪 Example Usage
 
-Input format:  
-A plain text file (`.txt`) with alternating lines of time and voltage:
 
